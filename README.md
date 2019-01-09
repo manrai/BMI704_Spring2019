@@ -54,7 +54,7 @@ Descriptions below are adapted from the URLs.
 | UK Biobank  | U.K. cohort studying the health and well-being of 500,000 volunteer participants | https://www.ukbiobank.ac.uk/ |
 | Demographic and Health Surveys | Nationally-representative household surveys that provide data for a wide range of health and nutrition indicators | https://dhsprogram.com/what-we-do/survey-Types/dHs.cfm |
 
-Readings
+## Readings
 | Papers |
 | ------ |
 |Baicker, Katherine, Sarah L. Taubman, Heidi L. Allen, Mira Bernstein, Jonathan H. Gruber, Joseph P. Newhouse, Eric C. Schneider, et al. 2013. “The Oregon Experiment--Effects of Medicaid on Clinical Outcomes.” The New England Journal of Medicine 368 (18): 1713–22.|
