@@ -53,3 +53,46 @@ Descriptions below are adapted from the URLs.
 | 500 Cities Project | City and census tract-level small area estimates for chronic disease risk factors, health outcomes, and clinical preventive service use for the largest 500 cities in the United States. | https://www.cdc.gov/500cities/index.htm |
 | UK Biobank  | U.K. cohort studying the health and well-being of 500,000 volunteer participants | https://www.ukbiobank.ac.uk/ |
 | Demographic and Health Surveys | Nationally-representative household surveys that provide data for a wide range of health and nutrition indicators | https://dhsprogram.com/what-we-do/survey-Types/dHs.cfm |
+
+Readings
+| Papers |
+| ------ |
+|Baicker, Katherine, Sarah L. Taubman, Heidi L. Allen, Mira Bernstein, Jonathan H. Gruber, Joseph P. Newhouse, Eric C. Schneider, et al. 2013. “The Oregon Experiment--Effects of Medicaid on Clinical Outcomes.” The New England Journal of Medicine 368 (18): 1713–22.|
+|Bates, D. W., L. L. Leape, D. J. Cullen, N. Laird, L. A. Petersen, J. M. Teich, E. Burdick, et al. 1998. “Effect of Computerized Physician Order Entry and a Team Intervention on Prevention of Serious Medication Errors.” JAMA: The Journal of the American Medical Association 280 (15): 1311–16.|
+|Benjamini, Y., and Y. Hochberg. 1995. “Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing.” Journal of the Royal Statistical Society. Series B, Statistical Methodology 57 (January): 289–300.|
+|Charlson, M. E., P. Pompei, K. L. Ales, and C. R. MacKenzie. 1987. “A New Method of Classifying Prognostic Comorbidity in Longitudinal Studies: Development and Validation.” Journal of Chronic Diseases 40 (5): 373–83.|
+|Collins, Francis S., and Harold Varmus. 2015. “A New Initiative on Precision Medicine.” The New England Journal of Medicine 372 (9): 793–95.|
+|Di, Qian, Yan Wang, Antonella Zanobetti, Yun Wang, Petros Koutrakis, Christine Choirat, Francesca Dominici, and Joel D. Schwartz. 2017. “Air Pollution and Mortality in the Medicare Population.” The New England Journal of Medicine 376 (26): 2513–22.|
+|Dockery, D. W., C. A. Pope 3rd, X. Xu, J. D. Spengler, J. H. Ware, M. E. Fay, B. G. Ferris Jr, and F. E. Speizer. 1993. “An Association between Air Pollution and Mortality in Six U.S. Cities.” The New England Journal of Medicine 329 (24): 1753–59.|
+|Estruch, Ramón, Emilio Ros, Jordi Salas-Salvadó, Maria-Isabel Covas, Dolores Corella, Fernando Arós, Enrique Gómez-Gracia, et al. 2018. “Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts.” The New England Journal of Medicine 378 (25): e34.|
+|Freedman, Neal D., Yikyung Park, Christian C. Abnet, Albert R. Hollenbeck, and Rashmi Sinha. 2012. “Association of Coffee Drinking with Total and Cause-Specific Mortality.” The New England Journal of Medicine 366 (20): 1891–1904.|
+|Horvath, Steve. 2013. “DNA Methylation Age of Human Tissues and Cell Types.” Genome Biology 14 (10): R115.|
+|Ioannidis, John P. A. 2005. “Why Most Published Research Findings Are False.” PLoS Medicine 2 (8): e124.|
+|Ioannidis, John P. A., En Yun Loy, Richie Poulton, and Kee Seng Chia. 2009. “Researching Genetic versus Nongenetic Determinants of Disease: A Comparison and Proposed Unification.” Science Translational Medicine 1 (7): 7ps8.|
+|James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2013. An Introduction to Statistical Learning: With Applications in R. Springer Texts in Statistics 103. Springer New York.|
+|Khera, Amit V., Mark Chaffin, Krishna G. Aragam, Mary E. Haas, Carolina Roselli, Seung Hoan Choi, Pradeep Natarajan, et al. 2018. “Genome-Wide Polygenic Scores for Common Diseases Identify Individuals with Risk Equivalent to Monogenic Mutations.” Nature Genetics 50 (9): 1219–24.|
+|Kong, Augustine, Gudmar Thorleifsson, Michael L. Frigge, Bjarni J. Vilhjalmsson, Alexander I. Young, Thorgeir E. Thorgeirsson, Stefania Benonisdottir, et al. 2018. “The Nature of Nurture: Effects of Parental Genotypes.” Science 359 (6374): 424–28.|
+|Lee, James J., Robbee Wedow, Aysu Okbay, Edward Kong, Omeed Maghzian, Meghan Zacher, Tuan Anh Nguyen-Viet, et al. 2018. “Gene Discovery and Polygenic Prediction from a Genome-Wide Association Study of Educational Attainment in 1.1 Million Individuals.” Nature Genetics 50 (8): 1112–21.|
+|Lloydjones, D., P. Wilson, M. Larson, A. Beiser, E. Leip, R. Dagostino, and D. Levy. 2004. “Framingham Risk Score and Prediction of Lifetime Risk for Coronary Heart disease1.” The American Journal of Cardiology 94 (1): 20–24.|
+|Mandl, K. D., and I. S. Kohane. 2012. “Escaping the EHR Trap—the Future of Health IT.” The New England Journal of Medicine. https://www.nejm.org/doi/full/10.1056/NEJMp1203102.|
+|Manrai, Arjun K., Birgit H. Funke, Heidi L. Rehm, Morten S. Olesen, Bradley A. Maron, Peter Szolovits, David M. Margulies, Joseph Loscalzo, and Isaac S. Kohane. 2016. “Genetic Misdiagnoses and the Potential for Health Disparities.” The New England Journal of Medicine 375 (7): 655–65.|
+|Manson, JoAnn E., Nancy R. Cook, I-Min Lee, William Christen, Shari S. Bassuk, Samia Mora, Heike Gibson, et al. 2018. “Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease.” The New England Journal of Medicine, November. https://doi.org/10.1056/NEJMoa1809944.|
+|Manson, JoAnn E. et al. 2019. “Marine N-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer.” The New England Journal of Medicine 380 (1): 23–32.|
+|Marmot, M. G., G. Rose, M. Shipley, and P. J. Hamilton. 1978. “Employment Grade and Coronary Heart Disease in British Civil Servants.” Journal of Epidemiology and Community Health 32 (4): 244–49.|
+|Meigs, J. B., P. Shrader, L. M. Sullivan, J. B. McAteer, C. S. Fox, J. Dupuis, A. K. Manning, et al. 2008. “Genotype Score in Addition to Common Risk Factors for Prediction of Type 2 Diabetes.” The New England Journal of Medicine 359 (21): 2208–19.|
+|Patel, Chirag J., Belinda Burford, and John P. A. Ioannidis. 2015. “Assessment of Vibration of Effects due to Model Specification Can Demonstrate the Instability of Observational Associations.” Journal of Clinical Epidemiology 68 (June): 1046–58.|
+|Patel, Chirag J., Mark R. Cullen, John P. A. Ioannidis, and Atul J. Butte. 2012. “Systematic Evaluation of Environmental Factors: Persistent Pollutants and Nutrients Correlated with Serum Lipid Levels.” International Journal of Epidemiology 41 (3): 828–43.|
+|Patel, Chirag J., and Arjun K. Manrai. 2015. “Development of Exposome Correlation Globes to Map out Environment-Wide Associations.” Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing, 231–42.|
+|Paul R Burton, David G Clayton, Lon R Cardon, Nick Craddock, Panos Deloukas, Audrey Duncanson, Dominic P Kwiatkowski, et al. 2007. “Genome-Wide Association Study of 14,000 Cases of Seven Common Diseases and 3,000 Shared Controls.” Nature 447 (7145): 661.|
+|Pearson, Thomas A., and Teri A. Manolio. 2008. “How to Interpret a Genome-Wide Association Study.” JAMA: The Journal of the American Medical Association 299 (11): 1335–44.|
+|Prasad, Vinay, Andrae Vandross, Caitlin Toomey, Michael Cheung, Jason Rho, Steven Quinn, Satish Jacob Chacko, et al. 2013. “A Decade of Reversal: An Analysis of 146 Contradicted Medical Practices.” Mayo Clinic Proceedings. Mayo Clinic 88 (8): 790–98.|
+|Price, Alkes L., Nick J. Patterson, Robert M. Plenge, Michael E. Weinblatt, Nancy A. Shadick, and David Reich. 2006. “Principal Components Analysis Corrects for Stratification in Genome-Wide Association Studies.” Nature Genetics 38 (8): 904–9.|
+|Risch, N., and K. Merikangas. 1996. “The Future of Genetic Studies of Complex Human Diseases.” Science 273 (5281): 1516–17.|
+|Schoenfeld, Jonathan D., and John P. A. Ioannidis. 2012. “Is Everything We Eat Associated with Cancer? A Systematic Cookbook Review--.” The American Journal of Clinical Nutrition 97 (1): 127–34.|
+|Szolovits, Peter, and S. G. Pauker. 1978. “Cateegorical and Probabilistic Reasoning in Medical Diagnosis *.” Artificial Intelligence 11 (1): 115–44.|
+|Tversky, A., and D. Kahneman. 1974. “Judgment under Uncertainty: Heuristics and Biases.” Science 185 (4157): 1124–31.|
+|Visscher, Peter M., Matthew A. Brown, Mark I. McCarthy, and Jian Yang. 2012. “Five Years of GWAS Discovery.” American Journal of Human Genetics 90 (1): 7–24.|
+|Visscher, Peter M., Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. McCarthy, Matthew A. Brown, and Jian Yang. 2017. “10 Years of GWAS Discovery: Biology, Function, and Translation.” American Journal of Human Genetics 101 (1): 5–22.|
+|Vittinghoff, Eric, David Glidden, Steve Shiboski, and Charles McCulloch. 2005. Regression Methods in Biostatistics: Linear, Logistic, Survival, and Repeated Measures Models. New York: Springer.|
+|Wickham, Hadley, and Garrett Grolemund. 2016. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. “O’Reilly Media, Inc.”|
+|Paul R Burton, David G Clayton, Lon R Cardon, Nick Craddock, Panos Deloukas, Audrey Duncanson, Dominic P Kwiatkowski, et al. 2007. “Genome-Wide Association Study of 14,000 Cases of Seven Common Diseases and 3,000 Shared Controls.” Nature 447 (7145): 661.|
