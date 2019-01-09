@@ -23,3 +23,33 @@ Goals:
 |<b>2/28<br>(5)</b>|<b>Decision Making in Medicine</b><ol><li>Intro to decision science in medicine</li><li>Categorical and probabilistic reasoning in medicine</li><li>Cognitive biases in medical decision making (e.g. numeracy)</li><li>Supporting physicians at the point of care</li><li>Guest Lecture: Vinay Prasad (http://www.vinayakkprasad.com/)</li></ol>|<b>Required:</b><br>(Szolovits and Pauker 1978; <br>Tversky and Kahneman 1974; <br>Manrai et al. 2016; <br>Prasad et al. 2013)<br><br><b>Recommended:</b><br>(Bates et al. 1998; <br>Mandl and Kohane 2012)|
 |<b>3/7<br>(6)</b>|<b>Clinical Risk Scores and Machine Learning Part 2</b><ol><li>Introduction to time-series analysis: the Kaplan-Meier estimator and Cox regression</li><li>Disease Risk Scores (e.g. Charlson comorbidity index)</li><li>Heritability and AUC</li><li>Practical machine learning</li><li>Evaluating model fit</li></ol>|<b>Required:</b><br>(James et al. 2013: Chapters 2, 3, 4, 5.1, 6; <br>Horvath 2013; <br>Lloydjones et al. 2004; <br>Meigs et al. 2008; <br>Charlson et al. 1987)<br><br><b>Recommended:</b>(Vittinghoff et al. 2005: Chapter 6; <br>Lakhani 2019)|<b>Lab out</b> (machine learning)|
 |<b>3/14<br>(7)</b>|<b>Bringing it All Together</b><ol><li>Short student presentations and real-time meta-analysis</li><li>Press-reported results: fake news?</li><li>Emerging topics in observational datasets: Guest Lecturer: Mauricio Santillana, PhD</li>|<b>Required:</b><br>(Baicker et al. 2013; <br>Collins and Varmus 2015; <br>Schoenfeld and Ioannidis 2012)<br><br><b>Recommended:</b>Video: https://goo.gl/rnruXK||
+  
+  ## Datasets Used in this Course:
+Descriptions below are adapted from the URLs.
+
+### Genetic Data
+| Dataset  | Description | URL |
+| ------------- | ------------- | ------------- |
+| Wellcome Trust Case Control Consortium (WTCCC) | Early example of the feasibility of genome-wide association studies (GWAS) | https://www.wtccc.org.uk/ |
+| 1000 Genomes Project Phase 3 Data | A catalogue of individual-level genomic variation from 2,504 individuals across 26 worldwide populations | http://www.internationalgenome.org/ |
+| Genome Aggregation Database (gnomAD) | Database that aggregates allele frequencies from exome and genome sequencing data for >140,000 indiivduals across 8 populations | http://gnomad.broadinstitute.org/ |
+| NIH dbGaP | Archive of data and results from many genotype-phenotype studies | https://www.ncbi.nlm.nih.gov/gap |
+| NHGRI-EBI GWAS Catalog | Curated collection of published GWAS results | https://www.ebi.ac.uk/gwas/ |
+| Broad Institute Polygenic Risk Scores | Variants and weights for polygenic risk scores in Khera et al. 2018 | http://www.broadcvdi.org/informational/data |
+| ClinVar | Database that aggregates assertions about pathogenicity of genetic variants across testing laboratories | https://www.ncbi.nlm.nih.gov/clinvar/ |
+| UK Biobank  | U.K. cohort studying the health and well-being of 500,000 volunteer participants | https://www.ukbiobank.ac.uk/ |
+
+### Exposure Data
+| Dataset  | Description | URL |
+| ------------- | ------------- | ------------- |
+| CDC National Health and Nutrition Examination Survey (NHANES) | Series of ongoing studies combining interviews and physical exams designed to assess the health and nutritional status of adults and children in the United States | https://www.cdc.gov/nchs/nhanes/index.htm |
+| Demographic and Health Surveys | Nationally-representative household surveys that provide data for a wide range of health and nutrition indicators | https://dhsprogram.com/what-we-do/survey-Types/dHs.cfm |
+| American Community Survey (ACS) | Survey compiled by the U.S. Census Bureau with demographic data | https://www.census.gov/programs-surveys/acs/ |
+
+### Phenotype Data
+| Dataset  | Description | URL |
+| ------------- | ------------- | ------------- |
+| CDC National Health and Nutrition Examination Survey (NHANES) | Series of ongoing studies combining interviews and physical exams designed to assess the health and nutritional status of adults and children in the United States | https://www.cdc.gov/nchs/nhanes/index.htm |
+| 500 Cities Project | City and census tract-level small area estimates for chronic disease risk factors, health outcomes, and clinical preventive service use for the largest 500 cities in the United States. | https://www.cdc.gov/500cities/index.htm |
+| UK Biobank  | U.K. cohort studying the health and well-being of 500,000 volunteer participants | https://www.ukbiobank.ac.uk/ |
+| Demographic and Health Surveys | Nationally-representative household surveys that provide data for a wide range of health and nutrition indicators | https://dhsprogram.com/what-we-do/survey-Types/dHs.cfm |
