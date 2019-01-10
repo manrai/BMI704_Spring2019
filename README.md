@@ -30,7 +30,7 @@ Descriptions below are adapted from the URLs.
 ### Genetic Data
 | Dataset  | Description | URL |
 | ------------- | ------------- | ------------- |
-| Wellcome Trust Case Control Consortium (WTCCC) | Early example of the feasibility of genome-wide association studies (GWAS) | <a href="https://www.wtccc.org.uk/" target="_blank">https://www.wtccc.org.uk/</a> |
+| Wellcome Trust Case Control Consortium (WTCCC) | Early example of the feasibility of genome-wide association studies (GWAS) | https://www.wtccc.org.uk/ |
 | 1000 Genomes Project Phase 3 Data | A catalogue of individual-level genomic variation from 2,504 individuals across 26 worldwide populations | http://www.internationalgenome.org/ |
 | Genome Aggregation Database (gnomAD) | Database that aggregates allele frequencies from exome and genome sequencing data for >140,000 indiivduals across 8 populations | http://gnomad.broadinstitute.org/ |
 | NIH dbGaP | Archive of data and results from many genotype-phenotype studies | https://www.ncbi.nlm.nih.gov/gap |
@@ -88,9 +88,9 @@ Descriptions below are adapted from the URLs.
 |Prasad, Vinay, Andrae Vandross, Caitlin Toomey, Michael Cheung, Jason Rho, Steven Quinn, Satish Jacob Chacko, et al. 2013. “A Decade of Reversal: An Analysis of 146 Contradicted Medical Practices.” Mayo Clinic Proceedings. Mayo Clinic 88 (8): 790–98.|
 |Price, Alkes L., Nick J. Patterson, Robert M. Plenge, Michael E. Weinblatt, Nancy A. Shadick, and David Reich. 2006. “Principal Components Analysis Corrects for Stratification in Genome-Wide Association Studies.” Nature Genetics 38 (8): 904–9.|
 |Risch, N., and K. Merikangas. 1996. “The Future of Genetic Studies of Complex Human Diseases.” Science 273 (5281): 1516–17.|
-|Schoenfeld, Jonathan D., and John P. A. Ioannidis. 2012. “Is Everything We Eat Associated with Cancer? A Systematic Cookbook Review--.” The American Journal of Clinical Nutrition 97 (1): 127–34.|
-|Szolovits, Peter, and S. G. Pauker. 1978. “Cateegorical and Probabilistic Reasoning in Medical Diagnosis *.” Artificial Intelligence 11 (1): 115–44.|
-|Tversky, A., and D. Kahneman. 1974. “Judgment under Uncertainty: Heuristics and Biases.” Science 185 (4157): 1124–31.|
+|Schoenfeld, Jonathan D., and John P. A. Ioannidis. 2012. "Is Everything We Eat Associated with Cancer? A Systematic Cookbook Review--." The American Journal of Clinical Nutrition 97 (1): 127–34.|
+|Szolovits, Peter, and S. G. Pauker. 1978. "Categorical and Probabilistic Reasoning in Medical Diagnosis *." Artificial Intelligence 11 (1): 115–44.|
+|Tversky, A., and D. Kahneman. 1974. "Judgment under Uncertainty: Heuristics and Biases." Science 185 (4157): 1124–31.|
 |Visscher, Peter M., Matthew A. Brown, Mark I. McCarthy, and Jian Yang. 2012. “Five Years of GWAS Discovery.” American Journal of Human Genetics 90 (1): 7–24.|
 |Visscher, Peter M., Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. McCarthy, Matthew A. Brown, and Jian Yang. 2017. “10 Years of GWAS Discovery: Biology, Function, and Translation.” American Journal of Human Genetics 101 (1): 5–22.|
 |Vittinghoff, Eric, David Glidden, Steve Shiboski, and Charles McCulloch. 2005. Regression Methods in Biostatistics: Linear, Logistic, Survival, and Repeated Measures Models. New York: Springer.|
